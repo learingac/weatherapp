@@ -1,0 +1,12 @@
+<div class="jumbotron">
+  <h1 class="display-4">The weather</h1>
+  <p class="lead">The weather today in <%= @output['location']['name'] %> is <%= @output["current"]["condition"]["text"]%>,
+   the temperature is <%= @output['current']['temp_c'] %>°C , and it feels like <%= @output['current']['feelslike_c']%>°C</p>
+  <hr class="my-4">
+  <p>Click the Refresh Page button to update the temperature </p>
+  <a class="btn btn-dark btn-lg" href="" role="button", onClick="window.location.reload();">Refresh Page</a>
+</div>
+
+
+<br/>
+
