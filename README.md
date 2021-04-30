@@ -1,24 +1,7 @@
-# README
+# Weather App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a learning project
+I'm learning ruby on rails and this project is knid of a sandbox for me to try what I'm learning
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is a Weather App
+In this project I used an API form weatherAPI
